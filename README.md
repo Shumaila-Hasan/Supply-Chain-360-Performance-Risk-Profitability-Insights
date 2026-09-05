@@ -70,3 +70,23 @@ One warehouse (Riga Central DC) accounts for the largest share of late deliverie
 Retail is the biggest revenue channel, but that doesn't automatically mean it's the most profitable — margin matters just as much as revenue.
 
 A few suppliers combine lower reliability with higher defect rates — these are the ones worth watching most closely.
+
+# Recommendations
+
+Based on the analysis, here's what the business could do to improve:
+
+Focus on Dairy first — since it has the highest margin leakage, look into better cold storage handling, shorter reorder cycles, or improved shelf-life tracking to cut down on waste and returns.
+
+Fix delivery issues at Riga Central DC — this warehouse has the largest share of late orders, so improving its processes could have the biggest impact on overall on-time delivery.
+
+Review supplier contracts for high-risk suppliers — suppliers with both low reliability and high defect rates should be monitored closely, or alternative suppliers should be considered.
+
+Balance revenue with profitability across channels — don't just chase the channel with the highest revenue; check which channel actually keeps the most profit per sale.
+
+Set clear targets and track them over time — using targets like "OTIF should stay above 95%" or "stockout rate should stay below 2%" helps turn raw numbers into clear, actionable goals.
+
+# Conclusion
+
+This project shows how raw supply chain data — orders, inventory snapshots, and supplier details — can be turned into clear, actionable insights using Python, SQL, and Power BI. Instead of just reporting numbers, the dashboard highlights where problems are happening (which category, which warehouse, which supplier) and why they matter to the business's bottom line.
+
+The biggest takeaway is that small, everyday issues — a late delivery here, some wasted stock there — add up to a real, measurable impact on profit. By tracking these issues together in one place, a business can move from reacting to problems after they happen to catching and fixing them early.
