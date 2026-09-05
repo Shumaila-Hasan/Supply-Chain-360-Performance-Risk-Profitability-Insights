@@ -55,13 +55,19 @@ The dashboard has 3 pages:
 
 The big picture — Revenue, Gross Profit, OTIF% (on-time-in-full delivery rate), and an overall "Supply Chain Health Score." Includes a chart showing exactly where profit is lost between Revenue and final profit (waste, returns, and costs).
 
+![dashboard]()
+
 - Delivery & Risk
 
 Focuses on how reliably orders are delivered — which warehouses are slower, which customer types face more delays, and how much revenue is tied up in risky orders (late, out-of-stock, or quality issues).
 
+![dashboard]()
+
 - Supplier & Quality
 
 Looks at the supply side — which suppliers are more reliable, which ones have higher defect rates, and where waste is happening across categories and warehouses.
+
+![dashboard]()
 
 # Key Insights
 
