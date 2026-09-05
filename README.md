@@ -3,7 +3,7 @@
 
 An end-to-end data analytics project that looks at how a distribution business manages its supply chain — from the moment an order is placed to the moment it's delivered. The project covers data cleaning, SQL analysis, and an interactive Power BI dashboard.
 
-📖 Introduction
+# Introduction
 
 Any business that moves physical goods — from a supplier, through a warehouse, to a customer — relies on a supply chain made up of many moving parts: orders, suppliers, warehouses, and customers spread across different sales channels. This project uses a real-world style operational dataset covering order transactions, inventory movements, supplier details, and customer information to understand how well a supply chain is actually performing.
 
