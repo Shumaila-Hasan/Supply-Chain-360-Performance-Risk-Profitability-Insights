@@ -67,7 +67,7 @@ Focuses on how reliably orders are delivered — which warehouses are slower, wh
 
 Looks at the supply side — which suppliers are more reliable, which ones have higher defect rates, and where waste is happening across categories and warehouses.
 
-![dashboard]()
+![dashboard](https://github.com/Shumaila-Hasan/Supply-Chain-360-Performance-Risk-Profitability-Insights/blob/main/supplier%20%26%20quality.png)
 
 # Key Insights
 
