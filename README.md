@@ -55,7 +55,7 @@ The dashboard has 3 pages:
 
 The big picture — Revenue, Gross Profit, OTIF% (on-time-in-full delivery rate), and an overall "Supply Chain Health Score." Includes a chart showing exactly where profit is lost between Revenue and final profit (waste, returns, and costs).
 
-![dashboard]()
+![dashboard](https://github.com/Shumaila-Hasan/Supply-Chain-360-Performance-Risk-Profitability-Insights/blob/main/overview.png)
 
 - Delivery & Risk
 
