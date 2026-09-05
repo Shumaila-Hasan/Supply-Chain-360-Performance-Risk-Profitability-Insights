@@ -61,7 +61,7 @@ The big picture — Revenue, Gross Profit, OTIF% (on-time-in-full delivery rate)
 
 Focuses on how reliably orders are delivered — which warehouses are slower, which customer types face more delays, and how much revenue is tied up in risky orders (late, out-of-stock, or quality issues).
 
-![dashboard]()
+![dashboard](https://github.com/Shumaila-Hasan/Supply-Chain-360-Performance-Risk-Profitability-Insights/blob/main/delivery%20%26%20risk.png)
 
 - Supplier & Quality
 
