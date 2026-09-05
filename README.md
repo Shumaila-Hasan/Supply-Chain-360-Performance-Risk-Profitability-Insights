@@ -1,21 +1,23 @@
-# Supply_Chain_FP20
 
-# Food & Beverage Supply Chain Analytics
+# Supply Chain Analytics Dashboard
 
-An end-to-end data analytics project that looks at how a food & beverage company manages its supply chain — from the moment an order is placed to the moment it's delivered. The project covers data cleaning, SQL analysis, and an interactive Power BI dashboard.
+An end-to-end data analytics project that looks at how a distribution business manages its supply chain — from the moment an order is placed to the moment it's delivered. The project covers data cleaning, SQL analysis, and an interactive Power BI dashboard.
+
+📖 Introduction
+
+Any business that moves physical goods — from a supplier, through a warehouse, to a customer — relies on a supply chain made up of many moving parts: orders, suppliers, warehouses, and customers spread across different sales channels. This project uses a real-world style operational dataset covering order transactions, inventory movements, supplier details, and customer information to understand how well a supply chain is actually performing.
+
+# Problem Statement
+
+Businesses often struggle to get a clear, connected view of how day-to-day operational issues affect overall performance. Deliveries are sometimes late, certain warehouses run out of stock more often than others, some suppliers are less reliable, and products get returned, wasted, or flagged for quality issues at different rates. Without pulling this information together, it's hard to quickly identify which suppliers, warehouses, or channels are underperforming — or how these operational problems are impacting revenue and profitability.
 
 # What is this project about?
-
-Companies that sell food and beverages deal with a lot of moving parts — orders, suppliers, warehouses, and customers across different channels (Retail, E-commerce, HoReCa, Distributors). Along the way, things can go wrong: deliveries arrive late, warehouses run out of stock, products expire, and some orders get returned.
 
 This project digs into real operational data to answer simple but important questions:
 
 Are we delivering orders on time?
-
 Where are we losing money — waste, returns, or stockouts?
-
 Which suppliers and warehouses are underperforming?
-
 How healthy is the overall supply chain, at a glance?
 
 # Tools Used
